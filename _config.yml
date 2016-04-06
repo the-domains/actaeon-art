@@ -1,0 +1,28 @@
+name: Actaeon Art
+favicon: null
+layout_spectrum: 0.7062099308241159
+typography_spectrum: 0.1637389592360705
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.18862016405910254
+  lightness: 0.7535150421317667
+  saturation: 0.8285622941330075
+  rhythmicContrast: 0.004296836210414767
+purpose: []
